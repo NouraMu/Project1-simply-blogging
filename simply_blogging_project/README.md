@@ -1,3 +1,3 @@
 # Simply Blogging Project by Norah Almugarry
 
-This is a frond-end blog as part of an assessment.
+This is a frond-end blog as part of an assessment to the MEAN Stack Track.
